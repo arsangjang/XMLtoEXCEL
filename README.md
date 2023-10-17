@@ -1,4 +1,4 @@
-# XMLtoEXCEL
+# XML to EXCEL
 Read and Convert XML file into Excel
 ---
 title: "Read & Convert XML files"
