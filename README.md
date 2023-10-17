@@ -40,7 +40,7 @@ Extract variables of interest from XML file (a_167):
 
 Variables (id) from Measurement node and Value from ReportableValue node
 
-![XML file example; 3 variables is defined in this file: Variable_1 ;Variable_2, and Variable_3](images/XML%20example.PNG)
+![XML file example; 3 variables is defined in this file: Variable_1 ;Variable_2, and Variable_3]([images/XML%20example.PNG](https://drive.google.com/file/d/1xipplHTjWZHFSox1XghUPFMULhhhHoLK/view?usp=sharing)
 
 \* Measurements indicates the node for variables/ Measurement Id indicates variable name
 
